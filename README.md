@@ -12,7 +12,6 @@ Repositorio del curso de **Maestría en Ciencias de los Datos y Analítica (EAFI
 ## 📂 Estructura del Repositorio
 
 ```
-├── notebooks/        # Jupyter notebooks por unidad temática
 ├── data/             # Datasets de práctica
 ├── labs/             # Talleres y guías de laboratorio
 └── README.md         # Este archivo
