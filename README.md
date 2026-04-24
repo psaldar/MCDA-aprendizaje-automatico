@@ -1,4 +1,4 @@
-# SI7009 – Aprendizaje Automático - 2025 2
+# SI7009 – Aprendizaje Automático - 2026 1
 
 Repositorio del curso de **Maestría en Ciencias de los Datos y Analítica (EAFIT)**. Aquí encontrarás el material de apoyo, notebooks, guías de laboratorio y ejemplos computacionales para trabajar los temas del curso:
 
